@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DataStore.DBOperations/bin/Debug
+/DataStore.DBOperations/obj/Debug
+/DataStore/bin/Debug
+/DataStore/obj/Debug
+/DataStore.FileOperations/bin/Debug
+/DataStore.FileOperations/obj/Debug
+/DataStore.Service/.vs/DataStore.Service/v16
+/DataStore.Service/bin/Debug
+/DataStore.Service/obj/Debug
